@@ -15,5 +15,5 @@
         xhr.send();
     }
     setInterval(ping, 3000); //3 seconding loop
-})();
+})(); 
 // /SYNC
